@@ -82,9 +82,14 @@ a{
 	text-align: justify;
 }
 
-.abstract,.experiments{
+.abstract,.experiments .model{
 	background-color: aliceblue;
 	padding: 2rem 2rem;
+}
+
+.model-img{
+	width: 100%;
+}
 }
 .case-study{
 	background-color: aliceblue;
